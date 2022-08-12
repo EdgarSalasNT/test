@@ -1,3 +1,6 @@
 [submodule "subtest"]
 	path = subtest
 	url = git@github.com:EdgarSalasNT/subtest.git
+[submodule "pagosiono"]
+	path = pagosiono
+	url = git@github.com-nt:EdgarSalasNT/pagosiono.git
